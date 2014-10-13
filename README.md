@@ -1,6 +1,3 @@
 Hello-World
 ===========
-Testing out GitHub! 
-Exciting!
-
-Hmmm Hmmm Hmm
+## This is a markdown file
